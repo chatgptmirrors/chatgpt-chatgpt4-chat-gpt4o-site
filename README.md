@@ -7,17 +7,17 @@
 备份与冗余 ：如果官方服务遇到故障或维护，镜像站可以作为备用，保证用户依然能够访问聊天机器人。
 
 # GPT中文版镜像网站
-① [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
+（1）✅ 稳定  ✅ 模型全  ✅ 模型更新及时
 
-✅ 稳定  ✅ 模型全  ✅ 模型更新及时
+[https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
 
-② [LearnItForSelf](https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
+（2）✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
 
-✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
+[LearnItForSelf](https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
 
-③ [AI Chat](https://guide1.lanjing.ai) 支持GPT3.5/4，4o以及MJ绘画
+（3）✅ 稳定  ✅ 模型全  ✅MJ绘画
 
-✅ 稳定  ✅ 模型全  ✅MJ绘画
+[AI Chat](https://guide1.lanjing.ai) 支持GPT3.5/4，4o以及MJ绘画
 
 # AI实用工具 收好~
 
@@ -48,34 +48,61 @@ AI搜索: Felo（这个时代，放弃BD吧，它可以跨语言所搜全世界�
 
 
 # 国内自研大模型汇总
+
 https://yiyan.baidu.com/ - 文心一言，百度出品
+
 https://tongyi.aliyun.com/ - 通义千问，阿里出品
+
 https://techday.sensetime.com/ - 商量，商汤科技出品
+
 https://tiangong.kunlun.com/ - 天工 AI 助手，天工大模型
+
 https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
+
 https://moss.fastnlp.top/ - Moss，复旦团队出品
+
 https://www.so.com/zt/invite.html - 360 智脑，360 出品
+
 https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
+
 
 #其他镜像站
 http://chat.forwardminded.xyz/
+
 https://ssgpt.chat/ - 支持 4o
+
 https://gezhe.com/
+
 http://www.gpt-smart.com/
+
 https://chat.mac89.com/
+
 https://front2.stargpt.top/#/chat
+
 https://chatgpt.ctfcode.com/#/register
+
 http://chat.niitcxl.cn
+
 https://dittin.com/
+
 https://chat.yokonsan.com/
+
 https://chat.douresources.com
+
 https://gpthink.xyz/#/chat
+
 https://gpt.fly2you.cn/web/
+
 http://ai.wikll.com
+
 http://chat.iisai.cn
+
 http://mychatos.top/#/chat
+
 https://itedus.cn
+
 https://chatbot.theb.ai/
+
 
 # 二、模型知识
 o1/o1-mini：最新的版本模型， o1 不是 GPT 的下一代模型！o1 和 GPT-4o在不同领域各有所长。o1 擅长 STEMSTEM 领域和需要大量思考的问题，并不擅长需要常识知识的知识。OpenAI 计划在之后分别研发 GPT 和 o1 系列模型。
