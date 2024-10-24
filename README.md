@@ -8,13 +8,15 @@
 
 # GPT中文版镜像网站
 ① [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
+
 ✅ 稳定  ✅ 模型全  ✅ 模型更新及时
 
 ② [LearnItForSelf](https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
-支持全系列模型、AI PPT
+
 ✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
 
 ③ [AI Chat](https://guide1.lanjing.ai) 支持GPT3.5/4，4o以及MJ绘画
+
 ✅ 稳定  ✅ 模型全  ✅MJ绘画
 
 # AI实用工具 收好~
