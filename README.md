@@ -1,7 +1,7 @@
 # 一、ChatGPT中文版镜像网站
-① (https://www.yixiaai.com)[https://www.yixiaai.com] 支持GPT4、4o以及o1，AI读文件
+① [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
 
-② (LearnItForSelf)[https://chat.lify.vip] 支持通用全模型，支持文件读取、插件、绘画、AIPPT
+② [LearnItForSelf].(https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
 
 ③ (AI Chat)[https://guide1.lanjing.ai] 支持GPT3.5/4，4o以及MJ绘画
 
