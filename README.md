@@ -7,13 +7,15 @@
 备份与冗余 ：如果官方服务遇到故障或维护，镜像站可以作为备用，保证用户依然能够访问聊天机器人。
 
 # GPT中文版镜像网站
-（1）✅ 稳定  ✅ 模型全  ✅ 模型更新及时
+（1）✅ 稳定  ✅ 模型全  ✅ 模型更新及时 
 
 [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
+
 
 （2）✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
 
 [LearnItForSelf](https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
+
 
 （3）✅ 稳定  ✅ 模型全  ✅MJ绘画
 
