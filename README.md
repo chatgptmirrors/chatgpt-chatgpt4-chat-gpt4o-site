@@ -10,7 +10,7 @@
 （1）[https://www.yixiaai.com](https://www.yixiaai.com)  ✅ 稳定  ✅ 模型全  ✅ 模型更新及时 
 
 
-（2）[https://chat.lify.vip](https://chat.lify.vip)  ✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
+（2）[https://chat.lify.vip](https://chat.lify.vip)      ✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
 
 
 
