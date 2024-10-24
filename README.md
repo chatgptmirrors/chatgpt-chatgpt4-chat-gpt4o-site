@@ -10,11 +10,11 @@
 （1）[https://www.yixiaai.com](https://www.yixiaai.com)  ✅ 稳定  ✅ 模型全  ✅ 模型更新及时 
 
 
-（2）[LearnItForSelf](https://chat.lify.vip)  ✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
+（2）[https://chat.lify.vip](https://chat.lify.vip)  ✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
 
 
 
-（3）[AI Chat](https://guide1.lanjing.ai)  ✅ 稳定  ✅ 模型全  ✅MJ绘画
+（3）[https://guide1.lanjing.ai](https://guide1.lanjing.ai)  ✅ 稳定  ✅ 模型全  ✅MJ绘画
 
 
 # AI实用工具 收好~
