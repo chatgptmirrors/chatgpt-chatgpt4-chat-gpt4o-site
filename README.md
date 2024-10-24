@@ -1,17 +1,79 @@
-# 一、ChatGPT中文版镜像网站
-① [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
-
-② [LearnItForSelf].(https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
-
-③ (AI Chat)[https://guide1.lanjing.ai] 支持GPT3.5/4，4o以及MJ绘画
-
-## 1. 什么是镜像站
+# 1. 什么是镜像站
 镜像站（Mirror Site）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
 
-## 2. ChatGPT 镜像站的用途
+# 2. ChatGPT 镜像站的用途
 绕过访问限制 ：在某些地区，访问 OpenAI 官方网站可能受到限制或阻塞，镜像站可以帮助用户绕过这些限制，继续使用 ChatGPT 服务。
 负载均衡 ：在高流量时期，镜像站可以分担部分用户请求，减轻官方服务器的负担，确保服务的稳定性。
 备份与冗余 ：如果官方服务遇到故障或维护，镜像站可以作为备用，保证用户依然能够访问聊天机器人。
+
+# GPT中文版镜像网站
+① [https://www.yixiaai.com](https://www.yixiaai.com) 支持GPT4、4o以及o1，AI读文件
+✅ 稳定  ✅ 模型全  ✅ 模型更新及时
+
+② [LearnItForSelf](https://chat.lify.vip) 支持通用全模型，支持文件读取、插件、绘画、AIPPT
+支持全系列模型、AI PPT
+✅ 稳定  ✅ 模型全  ✅ AI PPT  ✅ AI读文件  ✅ AI翻译  ✅ AI读文献  ✅ AI翻译  ✅ AI绘画
+
+③ [AI Chat](https://guide1.lanjing.ai) 支持GPT3.5/4，4o以及MJ绘画
+✅ 稳定  ✅ 模型全  ✅MJ绘画
+
+# AI实用工具 收好~
+
+Z-Library:世界上最大的电子图书馆<br>
+[z-lib.gs](https://yixiaai.cn/sites/166.html)
+
+
+AI问答：一下AI（国内直连的GPT4模型,还有o1模型，最主要稳定）<br>
+[yixiaai.com](www.yixiaai.com)
+
+AI会议纪要：飞书妙记（可以智能识别发言人，自动做总结）<br>
+[feishu.com](https://www.feishu.cn/product/minutes)
+
+AI做PPT：AI PPT（试过两次，还是很好的，可以自动生成，也可以把文件发给它根据文件内容生成PPT）<br>
+[chat.lify.vip](https://chat.lify.vip/aippt)
+
+AI做excel表：WPS（真的是适合国人，建议是花点钱开会员）<br>
+[wps.cn](https://www.wps.cn/)
+
+AI抠图：Remove bg（弄个宣传册海报或者证件照啥的，很方便）<br>
+[bgremove.com](https://bgremove.com/zh)
+
+AI读文件：AI智脑 （真心强，啥文件都能读，PDF、PPT、Word、TXT、Markdown等等，是读报告和文献的神器）<br>
+[aiBrain](https://chat.lify.vip)
+
+AI搜索: Felo（这个时代，放弃BD吧，它可以跨语言所搜全世界的内容，并且以提问的语言给你返回，很是厉害）<br>
+[felo.ai](https://felo.ai/search)
+
+
+# 国内自研大模型汇总
+https://yiyan.baidu.com/ - 文心一言，百度出品
+https://tongyi.aliyun.com/ - 通义千问，阿里出品
+https://techday.sensetime.com/ - 商量，商汤科技出品
+https://tiangong.kunlun.com/ - 天工 AI 助手，天工大模型
+https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
+https://moss.fastnlp.top/ - Moss，复旦团队出品
+https://www.so.com/zt/invite.html - 360 智脑，360 出品
+https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
+
+#其他镜像站
+http://chat.forwardminded.xyz/
+https://ssgpt.chat/ - 支持 4o
+https://gezhe.com/
+http://www.gpt-smart.com/
+https://chat.mac89.com/
+https://front2.stargpt.top/#/chat
+https://chatgpt.ctfcode.com/#/register
+http://chat.niitcxl.cn
+https://dittin.com/
+https://chat.yokonsan.com/
+https://chat.douresources.com
+https://gpthink.xyz/#/chat
+https://gpt.fly2you.cn/web/
+http://ai.wikll.com
+http://chat.iisai.cn
+http://mychatos.top/#/chat
+https://itedus.cn
+https://chatbot.theb.ai/
 
 # 二、模型知识
 o1/o1-mini：最新的版本模型， o1 不是 GPT 的下一代模型！o1 和 GPT-4o在不同领域各有所长。o1 擅长 STEMSTEM 领域和需要大量思考的问题，并不擅长需要常识知识的知识。OpenAI 计划在之后分别研发 GPT 和 o1 系列模型。
