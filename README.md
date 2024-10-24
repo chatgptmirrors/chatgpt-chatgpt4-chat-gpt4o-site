@@ -1,9 +1,9 @@
 # 一、ChatGPT中文版镜像网站
-① lanjing.ai 支持GPT4、4o以及o1，支持MJ绘画
+① (https://www.yixiaai.com)[https://www.yixiaai.com] 支持GPT4、4o以及o1，AI读文件
 
-② LearnItForSelf 支持通用全模型，支持文件读取、插件、绘画、AIPPT
+② (LearnItForSelf)[https://chat.lify.vip] 支持通用全模型，支持文件读取、插件、绘画、AIPPT
 
-③ AI Chat 支持GPT3.5/4，4o以及MJ绘画
+③ (AI Chat)[https://guide1.lanjing.ai] 支持GPT3.5/4，4o以及MJ绘画
 
 ## 1. 什么是镜像站
 镜像站（Mirror Site）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
