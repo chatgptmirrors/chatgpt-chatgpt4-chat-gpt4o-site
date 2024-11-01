@@ -16,7 +16,7 @@ ChatGPT 镜像站的用途 镜像站（Mirror Site）是指通过复制原始网
 
 （3）[https://guide1.lanjing.ai](https://guide1.lanjing.ai)  ✅ 稳定  ✅ 模型全  ✅MJ绘画 <br>
 
-Update： 2024/10/31 
+Update： 2024/11/01 
 
 ## AI实用工具 收好~
 
